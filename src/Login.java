@@ -5,7 +5,8 @@ public class Login {
         System.out.println("I am dev,working on project");
         System.out.println("User class completed");
 
-        // from local git
-        // love u Asiya
+
+
+// from github.com
     }
 }
